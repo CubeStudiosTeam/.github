@@ -28,16 +28,16 @@ about your network and the best plugins in the market!
 🪪 **Profile Plugin**  
 
 📑 **Old Projects**  
-**[Jade Network](https://www.x.com/jademcnet)** `1.7.10 X 1.8.9  
+**[Jade Network](https://www.x.com/jademcnet)** `1.7.10 X 1.8.9`
 
-**[DinoRush Network](https://www.x.com/dinorushnetwork)** `1.7.10 X 1.8.9  
+**[DinoRush Network](https://www.x.com/dinorushnetwork)** `1.7.10 X 1.8.9`  
 
-**[Strawhats Network](https://www.x.com/StrawhatsNet)** `1.7.10 X 1.8.9  
+**[Strawhats Network](https://www.x.com/StrawhatsNet)** `1.7.10 X 1.8.9`
 
-**[AtlantisMC Network](https://www.x.com/AtlantisMCnetwork)** `1.7.10 X 1.8.9  
+**[AtlantisMC Network](https://www.x.com/AtlantisMCnetwork)** `1.7.10 X 1.8.9`
 
 
-## Have interest in our projects?**  
+## **Have interest in our projects?**  
 
 If you want to purchase a product or see how it works, please join us @ https://cubestudios.gg/discord
 
