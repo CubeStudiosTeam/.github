@@ -29,8 +29,11 @@ about your network and the best plugins in the market!
 
 📑 **Old Projects**  
 **[Jade Network](https://www.x.com/jademcnet)** `1.7.10 X 1.8.9  
+
 **[DinoRush Network](https://www.x.com/dinorushnetwork)** `1.7.10 X 1.8.9  
+
 **[Strawhats Network](https://www.x.com/StrawhatsNet)** `1.7.10 X 1.8.9  
+
 **[AtlantisMC Network](https://www.x.com/AtlantisMCnetwork)** `1.7.10 X 1.8.9  
 
 
