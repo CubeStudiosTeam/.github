@@ -11,7 +11,7 @@ about your network and the best plugins in the market!
 👮 **uPunish Plugin**  
 🎓 **uHub Plugin**  
 👶🏻 **uNPCs Plugin**  
-👟 **qPearls Plugin**  
+👟 **qLogs Plugin**  
 🏅 **Core Plugin**  
 🎮 **uBungee Plugin**  
 🎨 **HCFactions Plugin**  
