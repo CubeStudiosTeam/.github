@@ -9,6 +9,7 @@ about your network and the best plugins in the market!
   
 
 👮 **uPunish Plugin**  
+🎱 **SimonSays Plugin**  
 🎓 **uHub Plugin**  
 👶🏻 **uNPCs Plugin**  
 👟 **qLogs Plugin**  
