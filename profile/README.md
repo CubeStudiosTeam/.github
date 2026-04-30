@@ -10,24 +10,9 @@ about your network and the best plugins in the market!
 
 👮 **uPunish Plugin**  
 🎱 **SimonSays Plugin**  
-🎓 **uHub Plugin**  
-👶🏻 **uNPCs Plugin**  
-👟 **qLogs Plugin**  
-🏅 **Core Plugin**  
-🎮 **uBungee Plugin**  
-🎨 **HCFactions Plugin**  
-♟ **BedWars Plugin**  
-🔌 **SimpleKits Plugin**  
-💾 **Crates Plugin**  
-🎛 **Practice Plugin**  
-🗃 **hQueue Plugin**  
-🎞 **Redstone Plugin**  
-🎰 **uVoucher Plugin**  
-🎥 **Prefix Plugin**  
-📦 **qSync Plugin**  
-🕖 **uCommands Plugin**  
-📓 **PearlInspect Plugin**  
-🪪 **Profile Plugin**  
+👟 **PearlInspect Plugin**  
+🎰 **FancyBrewer Plugin**  
+📓 **qBot Plugin**  
 
 📑 **Old Projects**  
 **[Jade Network](https://www.x.com/jademcnet)** `1.7.10 X 1.8.9`
