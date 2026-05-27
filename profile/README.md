@@ -11,6 +11,7 @@ about your network and the best plugins in the market!
 👮 **uPunish Plugin**  
 🎱 **SimonSays Plugin**  
 👟 **PearlInspect Plugin**  
+📑 **Whitelists Plugin**  
 🎰 **FancyBrewer Plugin**  
 📓 **qBot Plugin**  
 
