@@ -28,7 +28,6 @@ about your network and the best plugins in the market!
 🪪 **Profile Plugin**  
 
 📑 **Old Projects**  
-**[Jade Network](https://www.x.com/jademcnet)** `1.7.10 X 1.8.9`
 
 **[DinoRush Network](https://www.x.com/dinorushnetwork)** `1.7.10 X 1.8.9`  
 
